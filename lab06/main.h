@@ -4,3 +4,6 @@
 
 using namespace std;
 
+int getRandomInt(int, int);
+
+void task01();
